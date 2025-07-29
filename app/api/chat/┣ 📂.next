@@ -1,0 +1,39 @@
+┣ 📂.next
+┃ ┣ 📂types
+┣ 📂app
+┃ ┣ 📂api
+┃ ┃ ┗ 📂chat
+┃ ┃   ┗ 📜route.ts
+┃ ┣ 📂chat
+┃ ┃ ┗ 📜page.tsx
+┃ ┣ 📜favicon.ico
+┃ ┣ 📜globals.css
+┃ ┣ 📜layout.tsx
+┃ ┗ 📜page.tsx
+┣ 📂data
+┃ ┗ 📂psl_json
+┃   ┣ 📜1075986.json
+┃   ┣ 📜1075987.json
+┃   ┣ 📜1075988.json
+┃   ┣ 📜1075989.json
+┣ 📂lib
+┃ ┣ 📜chain.ts
+┃ ┗ 📜utils.ts
+┣ 📂public
+┃ ┣ 📜file.svg
+┃ ┣ 📜globe.svg
+┃ ┣ 📜next.svg
+┃ ┣ 📜vercel.svg
+┃ ┗ 📜window.svg
+┣ 📂scripts
+┃ ┗ 📜parse_psl_json.py
+┣ 📜.env
+┣ 📜.gitignore
+┣ 📜eslint.config.mjs
+┣ 📜next-env.d.ts
+┣ 📜next.config.ts
+┣ 📜package.json
+┣ 📜pnpm-lock.yaml
+┣ 📜postcss.config.mjs
+┣ 📜README.md
+┗ 📜tsconfig.json
